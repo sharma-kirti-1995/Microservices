@@ -1,0 +1,13 @@
+Synchronous and Asynchronous Communication bw microservices
+
+How to implement distributed Transactions in microservices?
+Synchronous - RestTemplate and FeignClient
+Asynchronous - Saga Pattern -> Messaging Queue 
+Circuit breaker Design Pattern -> fallBack method and @Hystrix
+Distributed tracing in Microservices - 
+Reactive microservices
+
+
+
+Mono FLux
+Web Flux
