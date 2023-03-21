@@ -1,0 +1,6 @@
+Using Sleuth and Zipkin server dependency of Spring cloud
+
+TraceID,spanID is printed in the console.
+
+In the Zipkin server on 9411 port, we can have the list of services that are using the above dependencies.
+From the logs we can check the time taken, the method called etc... in the Zipkin server.
